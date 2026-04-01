@@ -11,10 +11,12 @@
   * топ-5 кодов состояния HTTP.
 
 ## Как запустить
+```
 bash
 
 docker compose up -d
+
 sh load_test.sh
-
+```
 ## Дашборд
-
+![Метрики с полученных логов](https://github.com/Lana8888/practice-gunicorn-efk/blob/main/dashboard.png)
